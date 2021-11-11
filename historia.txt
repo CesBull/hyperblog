@@ -1,1 +1,7 @@
+this is history gitbull too
+
+other 
+other
+
 this is my history 3 in main
+whit i can be make changes in vim
