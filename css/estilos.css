@@ -13,10 +13,15 @@ body{
 #cabecera{
 background-color: mediumaquamarine;
 pad: 0.5em;
-
 }
 #cabecera #logo{
     width: 20px;
     vertical-align:middle;
     
     }
+#footer{
+    background-color: #777;
+    color: whitesmoke;
+    text-align: center;
+    padding: 0.5em;
+}
