@@ -1,7 +1,8 @@
 this is history gitbull too
 
-other 
-other
+
+other change since lnx
+
 
 this is my history 3 in main
 whit i can be make changes in vim
